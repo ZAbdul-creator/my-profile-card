@@ -23,11 +23,11 @@ body {
   text-align: center;
 }
 .bio {
-  color: black;
+  color: rgba(197, 29, 93, 0.829);
   font-size: 25px;
 }
 .quote {
-  color: crimson;
+  color: rgba(197, 29, 93, 0.829);
   text-align: center;
   font-style: italic;
 }
